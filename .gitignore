@@ -1,0 +1,5 @@
+../quiz-game/.idea
+venv
+__pycache__/
+.idea
+.env
